@@ -8,7 +8,7 @@ function App() {
      <div>
         HubClever
       </div>
-      <div style={{'font-style': 'italic'}}>
+      <div>
        One place to manage.
       </div>
     </>
