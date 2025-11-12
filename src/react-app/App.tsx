@@ -6,7 +6,10 @@ function App() {
   return (
     <>
      <div>
-        HubClever. One place to manage all!
+        HubClever
+      </div>
+      <div style={{'font-style': 'italic'}}>
+       One place to manage.
       </div>
     </>
   );
